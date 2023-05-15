@@ -20,5 +20,5 @@
 "Button": "  عضویت فوری  ",
 "ButtonCancell": " اینستا نمیرم ",
 "Closure": "true",
-"Show": "on"
+"Show": "off"
 }
